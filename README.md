@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Satrio Mangkunegoro**.<br>
 
-Saya seorang mahasiswa jurusan **Statistika** di [Universitas Brawijaya]<br>
+Saya seorang mahasiswa jurusan **Statistika** di [Universitas Brawijaya](https://ub.ac.id/id/)<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun aku ya. [Linkedin](https://www.linkedin.com/in/satrio-mangkunegoro/).
 <!--
